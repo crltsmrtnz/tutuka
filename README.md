@@ -1,15 +1,19 @@
-# tutuka
+# Tutuka - The MasturBand
+<details>
+<summary>Base</summary>
+
+| Rank | Languages | Version|
+|-----:|-----------| -----------|
+|     1| Flutter  | 3.12.0-13.0.pre.37|
+|     2| Dart     | 3.1.0 (build 3.1.0-262.0.dev)|
+|     3| Homebrew | 4.0.26|
+</details>
+
 
 Espacio para pruebas de integraciones y/o creacion de componentes
 
-## Getting Started
 
-## Base
 
-Flutter 3.12.0-13.0.pre.37 • channel master • https://github.com/flutter/flutter.git
-Framework • revision 63a8298d4b (25 hours ago) • 2023-07-01 13:36:10 -0500
-Engine • revision e6b8292705
-Tools • Dart 3.1.0 (build 3.1.0-262.0.dev) • DevTools 2.25.0
 Pasos Instalacion y Configuracion
 
 ## INSTALAR XCODE
@@ -39,3 +43,8 @@ pbcopy < ~/.ssh/id_rsa.pub
 
 
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://eitapreulablog.files.wordpress.com/2011/07/gato-masturbandp1.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://eitapreulablog.files.wordpress.com/2011/07/gato-masturbandp1.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://eitapreulablog.files.wordpress.com/2011/07/gato-masturbandp1.jpg">
+</picture>
