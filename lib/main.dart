@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'TuTuKa y la Masturbanda!!'),
+      home: const MyHomePage(title: 'Necesita ayuda?'),
     );
   }
 }
@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'para cuantas estas hoy??',
+              'Contador de personas',
             ),
             Text(
               '$_counter',
