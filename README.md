@@ -1,4 +1,6 @@
 # Tutuka - The MasturBand
+## Web creada para Molestar a Lucas Fridman y Homero Pettinato. SSSHHH DISFRUTAAA....!!!
+
 <details>
 <summary>Base</summary>
 
@@ -48,3 +50,5 @@ pbcopy < ~/.ssh/id_rsa.pub
  <source media="(prefers-color-scheme: light)" srcset="https://eitapreulablog.files.wordpress.com/2011/07/gato-masturbandp1.jpg">
  <img alt="YOUR-ALT-TEXT" src="https://eitapreulablog.files.wordpress.com/2011/07/gato-masturbandp1.jpg">
 </picture>
+
+
